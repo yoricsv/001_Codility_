@@ -1,0 +1,6 @@
+#cmakedefine USE_CONFIGURATION_FILE
+
+#define Codility_Test_3_VERSION_MAJOR @Codility_Test_3_VERSION_MAJOR@
+#define Codility_Test_3_VERSION_MINOR @Codility_Test_3_VERSION_MINOR@
+#define Codility_Test_3_VERSION_PATCH @Codility_Test_3_VERSION_PATCH@
+#define Codility_Test_3_VERSION_TWEAK @Codility_Test_3_VERSION_TWEAK@

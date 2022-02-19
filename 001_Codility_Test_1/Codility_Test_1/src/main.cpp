@@ -5,7 +5,9 @@ int main(
         char * argv[]
     )
 {
-    std::cout << "Hello, World!" << std::endl;
+    command_prompt_validator( argc, argv );
+
+
 
     return std::cout.good() ? EXIT_SUCCESS : EXIT_FAILURE;
 }

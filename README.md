@@ -1,77 +1,52 @@
-# [001_CodilityTest_][CPPTest]
-<!--
-## <p align=center>[Description][CPPTest] | [Requirement][demands] | [Building][Bld] | [Deploy][deploy] </p>
+# [001_Codility_][CPPTest]
 
-[CPPTest]:  README.md
-[demands]:  res/read/demands.md
-[Bld]:      res/read/Maven_SetupAutomation.md
-[deploy]:   res/read/Maven_SetupAutomation.md
+## <p align=center>[Test 1][test1] | [Test 2][test2] | [Test 3][test3] | [Test 4][test4] | [Test 5][test5] <br/> [Test 6][test6] | [Test 7][test7] | [Test 8][test8] | [Test 9][test9] | [Test 10][test10]</p>
+
+[CPPTest]: README.md
+[test1]:   https://github.com/yoricsv/001_Codility_/tree/master/001_Codility_Test_1
+[test2]:   https://github.com/yoricsv/001_Codility_/tree/master/001_Codility_Test_2
+[test3]:   https://github.com/yoricsv/001_Codility_/tree/master/001_Codility_Test_3
+[test4]:   https://github.com/yoricsv/001_Codility_/tree/master/001_Codility_Test_4
+[test5]:   https://github.com/yoricsv/001_Codility_/tree/master/001_Codility_Test_5
+[test6]:   https://github.com/yoricsv/001_Codility_/tree/master/001_Codility_Test_6
+[test7]:   https://github.com/yoricsv/001_Codility_/tree/master/001_Codility_Test_7
+[test8]:   https://github.com/yoricsv/001_Codility_/tree/master/001_Codility_Test_8
+[test9]:   https://github.com/yoricsv/001_Codility_/tree/master/001_Codility_Test_9
+[test10]:  https://github.com/yoricsv/001_Codility_/tree/master/001_Codility_Test_10
 
 ---
 <!-- ---------------------------------- * Navigation * ---------------------------------- -->
-<!--
-# <p align=center><i>Project name:</i> "<b>Social Network</b>"</p>
 
-## CONTENTS:
+## <p align=center>"<b>Codility</b>"</p>
 
-* [Project description][demands]
-* [Requirements][demands]
-* [Building][demands]
-* [Deploy][demands]
-
----
--->
-
-### Environment
-
-| **Operation system** | **Version** |
-|---------------------:|:------------|
-|              Windows | 11 Pro      |
-
-
-### Integrated development environment
-
-| **IDE**                | **Version** |
-|:-----------------------|:------------|
-| CLion                  | 2021.3.3    |
-
-
-### Requirements:
-
-| **Compiler /</br> Build System** | **Standard /</br> Version** |
-|---------------------------------:|:----------------------------|
-|                          **gcc** | v.6.3.0                     |
-|              or        **MinGW** | v.8.1.0                     |
-|              or         **MSVC** | v.19.29.30139               |
-|                 **C++ Standard** | 2017                        |
-|                        **CMake** | v.3.21                      |
-
-
-# Build and Run
+## Build and Run
 
 First, run the ***cmake*** executable or the ***cmake-gui*** to configure the project and then build it with your chosen
 build tool.
 
 > ***NOTE***: *To download and install the latest version of:</br>*
-> **CMake** use next link: ([*CMake download*][cmake])</br>
-> **MinGW (g++)** toolchain use ([*MinGW download*][mingw])
-
+**CMake** use next link: ([*CMake download*][cmake])</br>
+**MinGW (g++)** toolchain use ([*MinGW download*][mingw])
 
 ## **TIP:** To compile and build the project for **Windows OS**
 
 1. Run the **CommandPrompt** or **PowerShell**:
-    * `[Win]+[R]` -> Type: *`cmd`* or *`pwsh`* -> `[Shift]+[Ctrl]+[Enter]` *(to get admin rights)*
-2. Use the `cd` command to navigate to the `<_path_to_folder_>/001_CodilityTest_` directory with CMakeList.txt
+   * `[Win]+[R]` -> Type: *`cmd`* or *`pwsh`* -> `[Shift]+[Ctrl]+[Enter]` *(to get admin rights)*
+2. Use the `cd` command to navigate to the `<_path_to_folder_>/001_Codility_Test_#` directory with CMakeLists.txt
+
+> ***NOTE***: Instead of the sharp symbol (#), use the number of the current test!
 
 ```bash
-cd %USERPROFILE%\001_CodilityTest_
+cd %USERPROFILE%\001_Codility_Test_#
 ```
+
 3. To keep the source code clean you should do *"out-of-source"* builds. Use the `mkdir` command to create a build directory.
 
 ```bash
 mkdir manual_build
 cd manual_build
 ```
+
 4. Next, navigate to the build directory and run CMake to configure the project and generate a native build system:
 
 ```bash
@@ -88,24 +63,26 @@ cmake --build .
 
 ```bash
 cd .\Debug
-.\001_CodilityTest_.exe
+.\001_Codility_Test_#.exe
 ```
 
 ## **TIP:** To compile and build the project for **\*nix OS**
 
-1. Run the **Terminal**: 
+1. Run the **Terminal**
    * `[Ctrl]+[Alt]+[T]`
-2. Use the `cd` command to navigate to the `<_path_to_folder_>/001_CodilityTest_` directory with CMakeList.txt
+2. Use the `cd` command to navigate to the `<_path_to_folder_>/001_Codility_Test_#` directory with CMakeList.txt
 
 ```bash
-cd $home/001_CodilityTest_
+cd $home/001_Codility_Test_#
 ```
+
 3. To keep the source code clean you should do *"out-of-source"* builds. Use the `mkdir` command to create a build directory.
 
 ```bash
 mkdir manual_build
 cd manual_build
 ```
+
 4. Next, navigate to the build directory and run CMake to configure the project and generate a native build system:
 
 ```bash
@@ -122,13 +99,13 @@ cmake --build .
 
 ```bash
 cd Debug
-001_CodilityTest_
+001_Codility_Test_#
 ```
 
-## repo URL:
+## repo URL
 
-```
-https://github.com/yoricsv/001_CodilityTest_.git
+```url
+https://github.com/yoricsv/001_Codility_.git
 ```
 
 ---

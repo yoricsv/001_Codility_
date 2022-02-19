@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.19.2 FATAL_ERROR)
 
     set( PROJECT_NAME
-            Codility_Test_1
+            Codility_Test_6
     )
 
 project(

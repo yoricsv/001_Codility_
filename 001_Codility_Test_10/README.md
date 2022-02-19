@@ -1,4 +1,4 @@
-# [001_Codility_][CPPTest] > 001_Codility_Test_1
+# [001_Codility_][CPPTest] > 001_Codility_Test_10
 
 ## <p align=center>[Test 1][test1] | [Test 2][test2] | [Test 3][test3] | [Test 4][test4] | [Test 5][test5] <br/> [Test 6][test6] | [Test 7][test7] | [Test 8][test8] | [Test 9][test9] | [Test 10][test10]</p>
 
@@ -17,7 +17,7 @@
 ---
 <!-- ---------------------------------- * Navigation * ---------------------------------- -->
 
-## <p align=center>"<b>Codility Test 1</b>"</p>
+## <p align=center>"<b>Codility Test 10</b>"</p>
 
 > ***NOTE***: To build the project, see: [*Build and Run*][CPPTest] *instruction*
 
@@ -53,10 +53,8 @@
 ### repo URL
 
 ```url
-https://github.com/yoricsv/001_Codility_/001_Codility_Test_1.git
+https://github.com/yoricsv/001_Codility_/001_Codility_Test_10.git
 ```
 
 ---
 
-[cmake]: https://cmake.org/download
-[mingw]: https://www.mingw-w64.org/downloads

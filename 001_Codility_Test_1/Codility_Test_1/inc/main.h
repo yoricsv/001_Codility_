@@ -7,4 +7,6 @@
 
 #include <iostream>
 
+#include "CommandPromptArgValidator.h"
+
 #endif //_MAIN_H
