@@ -1,0 +1,4 @@
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/001_Codility_Test_1/cmake-build-release/CMakeFiles/rebuild_cache.dir
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/001_Codility_Test_1/cmake-build-release/CMakeFiles/test.dir
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/001_Codility_Test_1/cmake-build-release/CMakeFiles/Codility_Test_1.dir
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/001_Codility_Test_1/cmake-build-release/CMakeFiles/edit_cache.dir

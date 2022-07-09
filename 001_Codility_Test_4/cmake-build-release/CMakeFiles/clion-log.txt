@@ -1,0 +1,16 @@
+C:\CLion_IDE\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=C:/CLion_IDE/bin/ninja/win/ninja.exe -G Ninja C:\OneDrive\Desktop\001_PROJECTS_\003_C++_Projects_\004_EXAMS_\001_Codility_\001_Codility_Test_4
+-- The C compiler identification is GNU 8.1.0
+-- The CXX compiler identification is GNU 8.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/MinGW_Compiler_C-C++/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/MinGW_Compiler_C-C++/mingw64/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/001_Codility_Test_4/cmake-build-release

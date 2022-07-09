@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Codility_Test_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Codility_Test_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Codility_Test_2-Debug-f178a4b8dfa21e6d7003.json",
+					"name" : "Codility_Test_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/build-001_Codility_Test_2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug",
+		"source" : "C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/001_Codility_Test_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}

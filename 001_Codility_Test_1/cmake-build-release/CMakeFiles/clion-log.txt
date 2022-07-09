@@ -1,0 +1,4 @@
+C:\CLion_IDE\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Release -DCMAKE_MAKE_PROGRAM=C:/CLion_IDE/bin/ninja/win/ninja.exe -G Ninja C:\OneDrive\Desktop\001_PROJECTS_\003_C++_Projects_\004_EXAMS_\001_Codility_\001_Codility_Test_1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/001_Codility_Test_1/cmake-build-release

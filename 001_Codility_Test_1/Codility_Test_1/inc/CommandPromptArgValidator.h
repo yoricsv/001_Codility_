@@ -1,7 +1,7 @@
 //
 // Created by Yoric on 19-Feb-22.
 //
-
+#pragma once
 #ifndef COMMAND_PROMPT_ARGS_VALIDATOR_H
 #define COMMAND_PROMPT_ARGS_VALIDATOR_H
 

@@ -9,6 +9,13 @@ void command_prompt_validator(
         char * argv[]
     )
 {
+    /** [OPTIONAL] TO REQUIRE ADDITIONAL PARAMETERS */
+//    if (argc != 2)
+//    {
+//        std::cout << "Usage: " << argv[0] << " <path>\n";
+//        return EXIT_FAILURE;
+//    }
+
     if ( argc < 2)
     {
         std::cout << "\t|The app runs in command prompt mode|\n"

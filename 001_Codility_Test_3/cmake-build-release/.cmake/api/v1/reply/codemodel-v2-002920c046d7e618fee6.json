@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.19.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Codility_Test_3",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Codility_Test_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Codility_Test_3-Release-0cc60a5f195b17fd8528.json",
+					"name" : "Codility_Test_3",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/001_Codility_Test_3/cmake-build-release",
+		"source" : "C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/001_Codility_Test_3"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

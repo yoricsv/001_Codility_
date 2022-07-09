@@ -12,11 +12,12 @@ project(
 
 # BEGIN > ----- SET PROJECT PROPERTIES -------------------------------
     set( PROJECT_PROPERTIES
-            CMAKE_BUILD_TYPE                Debug
-            CMAKE_CXX_FLAGS                 -O3
-            CMAKE_CXX_FLAGS                 -Wall
-            CMAKE_CXX_STANDARD              17
-            CMAKE_CXX_STANDARD_REQUIRED     True
+            CMAKE_BUILD_TYPE                Debug   # (Debug | Release | RelWithDebInfo | MinSizeRel)
+            COMPILE_FLAGS                   -O3
+            COMPILE_FLAGS                   -Wall
+#            COMPILE_FLAGS                   -fs
+            CXX_STANDARD                    17
+            CXX_STANDARD_REQUIRED           ON
     )
     option(
         USE_SPECIAL_SOURCE_DIRECTORY
@@ -235,7 +236,9 @@ endif()
     set( SOURCES
             ${PROJECT_SOURCE_DIR}/main.cpp
             ${PROJECT_SOURCE_DIR}/CommandPromptArgValidator.cpp
-    )
+            ${PROJECT_SOURCE_DIR}/HDDScanner.cpp
+            ${PROJECT_SOURCE_DIR}/FindMinPositiveNumber.cpp
+            ${PROJECT_SOURCE_DIR}/FileSystem.cpp)
 if(ANDROID)
     add_library(                        # Create target as a library
             ${PROJECT_NAME}

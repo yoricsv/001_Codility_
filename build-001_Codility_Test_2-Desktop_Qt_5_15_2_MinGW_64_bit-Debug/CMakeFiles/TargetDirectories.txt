@@ -1,0 +1,4 @@
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/build-001_Codility_Test_2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/Codility_Test_2.dir
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/build-001_Codility_Test_2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/build-001_Codility_Test_2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/test.dir
+C:/OneDrive/Desktop/001_PROJECTS_/003_C++_Projects_/004_EXAMS_/001_Codility_/build-001_Codility_Test_2-Desktop_Qt_5_15_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
